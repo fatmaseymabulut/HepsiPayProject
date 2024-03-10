@@ -1,0 +1,8 @@
+com\LCW\utilities\ConfigurationReader.class
+com\LCW\pages\KategoriPage.class
+com\LCW\utilities\Driver.class
+com\LCW\step_definitions\LcwAddProductsStepDefs.class
+com\LCW\pages\BasePage.class
+com\LCW\runners\CukesRunners.class
+com\LCW\step_definitions\Hooks.class
+com\LCW\runners\CukesRunners$CukesRunner.class
